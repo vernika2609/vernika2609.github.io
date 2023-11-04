@@ -4,7 +4,7 @@
   }
 </style>
 # <span style="color:#4CAF50">Vernika's Resume</span>
-![profile picture](https://github.com/vernika2609/vernika2609.github.io/assets/149888616/08cb8197-24b6-4645-bad8-74808007eb28)
+![profile picture-3](https://github.com/vernika2609/vernika2609.github.io/assets/149888616/a08ee88b-08a6-485a-9d32-0582ecefc071)
 
 I am seeking opportunities to join a company that can help me in enhancing my skills, strengthening my knowledge and realizing my potential. I am willing to explore a wide variety of opportunities that can help me gain perspective.
 
