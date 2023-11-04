@@ -1,21 +1,37 @@
 <style>
   body {
-    background-color: #FFFFED; /* Replace with your desired background color */
+    background-color: #FFFFED; /
   }
 </style>
 # <span style="color:#4CAF50">Vernika's Resume</span>
-<img src="/Users/ujjwalbudhiyan/Documents/DOCUMENTS/VERNIKA transcript file" alt="Image Alt Text" width="200" height="200">
+<img src="/Users/ujjwalbudhiyan/Documents/DOCUMENTS/VERNIKA transcript file.jpeg" alt="Image Alt Text" width="200" height="200">
 
 I am seeking opportunities to join a company that can help me in enhancing my skills, strengthening my knowledge and realizing my potential. I am willing to explore a wide variety of opportunities that can help me gain perspective.
 
-## <span style="color:#4CAF50">Personal Information</span>
+<!DOCTYPE html>
+<html>
+<head>
+    <style>
+         h2 {
+            font-family: Arial, sans-serif;
+            font-weight: bold;
+            color: #242302; /
+        }
+    </style>
+</head>
+<body>
+    <h2><span style="color:#4CAF50">Personal Information</span></h2>
+    <ul>
+        <li><strong><span style="color:#0000FF">Name:</span></strong> Vernika</li>
+        <li><strong><span style="color:#0000FF">Address:</span></strong> Annastrasse 5a Goettingen 37075, Germany</li>
+        <li><strong><span style="color:#0000FF">Contact No:</span></strong> +4917669506597</li>
+        <li><strong><span style="color:#0000FF">E-Mail:</span></strong> vernika2609@gmail.com</li>
+        <li><strong><span style="color:#0000FF">Date & Place of Birth:</span></strong> 26.09.2001 & Delhi, India</li>
+        <li><strong><span style="color:#0000FF">Gender & Nationality:</span></strong> Female & Indian</li>
+    </ul>
+</body>
+</html>
 
-- **<span style="color:#0000FF">Name:</span>** Vernika
-- **<span style="color:#0000FF">Address:</span>** Annastrasse 5a Goettingen 37075, Germany
-- **<span style="color:#0000FF">Contact No:</span>** +4917669506597
-- **<span style="color:#0000FF">E-Mail:</span>** vernika2609@gmail.com
-- **<span style="color:#0000FF">Date & Place of Birth:</span>** 26.09.2001 & Delhi, India
-- **<span style="color:#0000FF">Gender & Nationality:</span>** Female & Indian
 
 ## <span style="color:#4CAF50">Work Experience</span>
 
