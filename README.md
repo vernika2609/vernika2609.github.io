@@ -1,5 +1,5 @@
 # <span style="color:#4CAF50">Vernika's Resume</span>
-![Vernika's Photo](C:\Users\hp\Desktop\vernika\visa file)
+<img src="(C:\Users\hp\Desktop\vernika\visa file)" alt="Vernika profile picture"
 
 I am seeking opportunities to join a company that can help me in enhancing my skills, strengthening my knowledge and realizing my potential. I am willing to explore a wide variety of opportunities that can help me gain perspective.
 
