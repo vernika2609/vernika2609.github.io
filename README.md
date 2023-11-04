@@ -1,3 +1,8 @@
+<style>
+  body {
+    background-color: #FFFFED; /* Replace with your desired background color */
+  }
+</style>
 # <span style="color:#4CAF50">Vernika's Resume</span>
 <img src="(C:\Users\hp\Desktop\vernika\visa file)" alt="Vernika profile picture"
 
