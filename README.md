@@ -4,11 +4,10 @@
   }
 </style>
 # <span style="color:#4CAF50">Vernika's Resume</span>
-<img src="/Users/ujjwalbudhiyan/Documents/DOCUMENTS/VERNIKA transcript file.jpeg" alt="Image Alt Text" width="200" height="200">
+<img src="Users/ujjwalbudhiyan/Downloads.jpeg" alt="Image Alt Text" width="200" height="200">
 
 I am seeking opportunities to join a company that can help me in enhancing my skills, strengthening my knowledge and realizing my potential. I am willing to explore a wide variety of opportunities that can help me gain perspective.
 
-<!DOCTYPE html>
 <html>
 <head>
     <style>
