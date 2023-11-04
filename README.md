@@ -1,6 +1,7 @@
 # <span style="color:#4CAF50">Vernika's Resume</span>
+![Vernika's Photo](C:\Users\hp\Desktop\vernika\visa file)
 
-This repository contains my online resume, created as a personal website hosted on GitHub Pages. It serves as an interactive platform to showcase my professional background, education, and skills.
+I am seeking opportunities to join a company that can help me in enhancing my skills, strengthening my knowledge and realizing my potential. I am willing to explore a wide variety of opportunities that can help me gain perspective.
 
 ## <span style="color:#4CAF50">Personal Information</span>
 
